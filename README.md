@@ -101,7 +101,20 @@ The fields present in Orders dataset are,
 
    ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/0717f814-6e8f-487d-8900-566859584e83)
 
-![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/c3399b62-834b-4d17-a5c0-1997b679a327)
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/c3399b62-834b-4d17-a5c0-1997b679a327)
+
+   Each year generated Revenue value is listed above, from which we come to know that swiggy has generated on the year **2021** with a value of **11343.0**.
+
+
+10. **Revenue difference between 2021 and 2022**
+
+    To get the difference it's necessary to find the previous sales value in order to find the difference percentage. In python we can get the previous value by using shift() function and this is a challenging act according to SQL.
+
+  ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/32292fe0-d6c2-48fa-b7d9-f63dde76bd41)
+
+  ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/0ab78cf6-6ef5-41a1-935c-40ce33232ee4)
+
+
 
     
 
