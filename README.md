@@ -39,6 +39,7 @@ The fields present in Orders dataset are,
 
 ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/348136a8-c490-42b0-a5ff-e066482cd83a)
 
+
 2. **Count of Veg and Non veg Items**
 
    There were **12** **Non veg** items
@@ -46,6 +47,7 @@ The fields present in Orders dataset are,
    and a **new category(undefined)** - Maybe Desserts - **1 item**
 
 ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/bc3edb70-5162-4baa-8e44-c8e9e07d4556)
+
 
 3. **Details on Chicken based dishes**
 
@@ -56,6 +58,25 @@ The fields present in Orders dataset are,
    In order to filter the chicken based dishes we can access with the chickenfound field value.
 
    ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/bbb42964-d7be-4742-98de-5466c05e0d70)
+   
+
+4. **Items that are ordered the most**
+
+   To know the most ordered items - we can group the items by their name along with the count of it's order. As the default result displays in ascending order use sort_values() function with ascending=False as it's parameter
+
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/f3e7d9a1-1c1f-483b-a928-909cf5db524a)
+
+  **Classic Mac & Cheese** is the most ordered item according to the dataset.
+  
+
+6. **Count of Unique swiggy users**
+
+   
+
+   
+
+
+   
 
 
    
