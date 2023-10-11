@@ -70,7 +70,33 @@ The fields present in Orders dataset are,
    **Classic Mac & Cheese** is the most ordered item according to the dataset.
   
 
-6. **Count of Unique swiggy users**
+
+5. **Count of distinct orders**
+   
+   There are 95 unique orders.
+    
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/8ef18417-94d8-41df-bfea-0653aa532e53)
+   
+
+6. **Unique Restaurents where the orders are placed**
+   
+   There are **49** unique restaurents which have recieved orders.
+   
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/d25f77d6-3223-40d0-8e93-3e4e47256662)
+
+7. **Top Restaurents with high number of orders**
+
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/ef2fe329-ac05-4188-89e1-ac116f6b65b4)
+
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/936a327e-7a6c-4366-a8e0-6643e0233135)
+
+   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/b8414a85-d19f-46b3-8071-121ccfcf03c0)
+
+
+
+   
+   
+
 
    
 
