@@ -114,13 +114,20 @@ The fields present in Orders dataset are,
    
 
 
-9. **Revenue difference between 2021 and 2022**
+9. **Revenue difference between 2020 and 2021**
 
     To get the difference it's necessary to find the previous sales value in order to find the difference percentage. In python we can get the previous value by using shift() function and this is a challenging act according to SQL.
 
   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/32292fe0-d6c2-48fa-b7d9-f63dde76bd41)
 
   ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/0ab78cf6-6ef5-41a1-935c-40ce33232ee4)
+
+  From the above image, we can see that there is **2.295% ** difference between 2020 and 2021 year in terms of Revenue generation. The negative values of different percentage shows that there was a drop in revenue between the corresponding years (2019-20)(2021-22).
+
+
+# Business Decision Suggestions
+
+
 
 
 
