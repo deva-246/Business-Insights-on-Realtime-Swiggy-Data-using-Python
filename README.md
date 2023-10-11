@@ -31,8 +31,9 @@ The fields present in Orders dataset are,
 
 # Business Insights 
 
-1. Unique Items that are ordered
-         There are 164 unique items present in the dataset, which are been delivered by swiggy.
+1. **Unique Items that are ordered**
+
+   There are 164 unique items present in the dataset, which are been delivered by swiggy.
    
 ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/50243034-36fe-46ce-bd85-8dc2dc85ebab)
 
