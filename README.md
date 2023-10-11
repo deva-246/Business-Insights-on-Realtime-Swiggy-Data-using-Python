@@ -31,6 +31,7 @@ The fields present in Orders dataset are,
 
 # Business Insights 
 
-      1. Unique Items that are ordered
-      ![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/348136a8-c490-42b0-a5ff-e066482cd83a)
+1. Unique Items that are ordered
+
+![image](https://github.com/deva-246/Business-Insights-on-Realtime-Swiggy-Data-using-Python/assets/75877347/348136a8-c490-42b0-a5ff-e066482cd83a)
 
