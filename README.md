@@ -1,7 +1,7 @@
 # Business-Insights-on-Realtime-Swiggy-Data-using-Python
 Data analysis on a part of real time Swiggy data to gain insights and make business based decisions. This dataset contains the information about items and orders placed from the period 2017-2022.
 
-# Datasets
+## Datasets
 The fields present in items dataset are,
 
       1. id 
@@ -29,7 +29,7 @@ The fields present in Orders dataset are,
 
       7. On time / not
 
-# Business Insights 
+## Business Insights 
 
 1. **Unique Items that are ordered**
 
@@ -125,7 +125,7 @@ The fields present in Orders dataset are,
   From the above image, we can see that there is **2.295% ** difference between 2020 and 2021 year in terms of Revenue generation. The negative values of different percentage shows that there was a drop in revenue between the corresponding years (2019-20)(2021-22).
 
 
-# Business Decision Suggestions
+
 
 
 
